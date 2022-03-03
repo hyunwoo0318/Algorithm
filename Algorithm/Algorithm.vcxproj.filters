@@ -45,5 +45,17 @@
     <ClCompile Include="..\..\ConsoleApplication1\ConsoleApplication1\3052.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="7785.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15596.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4973.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1065.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
