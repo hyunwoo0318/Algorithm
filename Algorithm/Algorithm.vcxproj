@@ -149,9 +149,20 @@
     <ClCompile Include="..\..\ConsoleApplication1\ConsoleApplication1\4344.cpp" />
     <ClCompile Include="..\..\ConsoleApplication1\ConsoleApplication1\8958.cpp" />
     <ClCompile Include="..\..\ConsoleApplication1\ConsoleApplication1\9012.cpp" />
+    <ClCompile Include="10448.cpp" />
     <ClCompile Include="1065.cpp" />
+    <ClCompile Include="11654.cpp" />
+    <ClCompile Include="1449.cpp" />
     <ClCompile Include="15596.cpp" />
+    <ClCompile Include="1712.cpp" />
+    <ClCompile Include="1931.cpp" />
+    <ClCompile Include="1935.cpp" />
+    <ClCompile Include="2075.cpp" />
+    <ClCompile Include="2292.cpp" />
+    <ClCompile Include="3040.cpp" />
+    <ClCompile Include="%28못품%293085.cpp" />
     <ClCompile Include="4973.cpp" />
+    <ClCompile Include="5397.cpp" />
     <ClCompile Include="7785.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
