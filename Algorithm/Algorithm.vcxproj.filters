@@ -15,36 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\ConsoleApplication1\ConsoleApplication1\4344.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\ConsoleApplication1\ConsoleApplication1\8958.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\ConsoleApplication1\ConsoleApplication1\9012.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\ConsoleApplication1\ConsoleApplication1\11286.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\ConsoleApplication1\ConsoleApplication1\11866.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\ConsoleApplication1\ConsoleApplication1\1302.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\ConsoleApplication1\ConsoleApplication1\1546.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\ConsoleApplication1\ConsoleApplication1\2164.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\ConsoleApplication1\ConsoleApplication1\2577.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\ConsoleApplication1\ConsoleApplication1\3052.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="7785.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -88,6 +58,51 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="2292.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1193.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ConsoleApplication1\1002.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ConsoleApplication1\1085.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ConsoleApplication1\1929.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ConsoleApplication1\2447(못품).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ConsoleApplication1\2581.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ConsoleApplication1\3053.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ConsoleApplication1\3099.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ConsoleApplication1\4153.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ConsoleApplication1\4948.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ConsoleApplication1\9020.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ConsoleApplication1\10870.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ConsoleApplication1\10872.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ConsoleApplication1\11653.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ConsoleApplication1\11729(못품).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
