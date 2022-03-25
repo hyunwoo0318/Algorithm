@@ -54,19 +54,19 @@
 //		{
 //			int x, y;
 //			cin >> x >> y;
-//			arr[x][y] = 1;
+//			arr[y][x] = 1;
 //		}
 //		
 //		int cnt = 0;
 //
-//		for (int i = 0; i < m; i++)
+//		for (int i = 0; i < n; i++)
 //		{
-//			for (int j = 0; j < n; j++)
+//			for (int j = 0; j < m; j++)
 //			{
 //				if ((arr[i][j] == 1) && (visited[i][j] == false))
 //				{
 //					DFS(i,j);
-//					cnt++;
+//					cnt++;i
 //				}
 //			}
 //		}

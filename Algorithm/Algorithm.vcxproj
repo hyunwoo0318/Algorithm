@@ -168,12 +168,14 @@
     <ClCompile Include="1316.cpp" />
     <ClCompile Include="1449.cpp" />
     <ClCompile Include="15596.cpp" />
+    <ClCompile Include="1697.cpp" />
     <ClCompile Include="1712.cpp" />
     <ClCompile Include="1931.cpp" />
     <ClCompile Include="1935.cpp" />
     <ClCompile Include="1987.cpp" />
     <ClCompile Include="2075.cpp" />
     <ClCompile Include="2178%28답봄%29.cpp" />
+    <ClCompile Include="2206.cpp" />
     <ClCompile Include="2292.cpp" />
     <ClCompile Include="2606.cpp" />
     <ClCompile Include="2667.cpp" />
@@ -185,6 +187,9 @@
     <ClCompile Include="4973.cpp" />
     <ClCompile Include="5397.cpp" />
     <ClCompile Include="5622.cpp" />
+    <ClCompile Include="7562.cpp" />
+    <ClCompile Include="7569.cpp" />
+    <ClCompile Include="7576.cpp" />
     <ClCompile Include="7785.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

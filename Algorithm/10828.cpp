@@ -1,12 +1,12 @@
-#include<iostream>
-#include<stack>
-
-using namespace std;
-
-int main()
-{
-	int n;
-	cin >> n;
-
-	
-}
+//#include<iostream>
+//#include<stack>
+//
+//using namespace std;
+//
+//int main()
+//{
+//	int n;
+//	cin >> n;
+//
+//	
+//}

@@ -21,7 +21,7 @@
 //	while (q.empty() == false)
 //	{
 //		int sz = q.size(); // queue의 사이즈를 체크
-//		for (int z = 0; z < sz; z++)
+//		for (int z = 0; z < sz; z++) // q의 사이즈는 계속 변하므로 변수로 두고 해야함.
 //		{
 //			int a = q.front().first;
 //			int b = q.front().second;
@@ -45,40 +45,6 @@
 //				}
 //			}
 //			
-//			/*pair<int, int> temp = q.front();
-//			if (visited[temp.first][temp.second] == false)
-//			{
-//				visited[temp.first][temp.second] = true;
-//				q.pop();
-//
-//				int nx, ny;
-//				for (int i = 0; i < 4; i++)
-//				{
-//					nx = temp.first + dx[i];
-//					ny = temp.second + dy[i];
-//
-//					if (nx < 0 || nx >= m || nx < 0 || ny >= n)
-//						continue;
-//					else
-//					{
-//						if (arr[nx][ny] == 1 && visited[nx][ny] == false)
-//						{
-//							q.push(pair<int, int>(nx, ny));
-//
-//						}
-//						if (nx == (m - 1) && ny == (n - 1))
-//							break;
-//					}
-//
-//				}
-//				cnt++;
-//			}
-//			else
-//				q.pop();
-//
-//		}
-//		*/
-//
 //		}
 //		cnt++;
 //		//bfs에서의 깊이의 수를 세워주는 방식
