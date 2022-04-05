@@ -139,20 +139,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\ConsoleApplication1\1002.cpp" />
-    <ClCompile Include="..\..\ConsoleApplication1\1085.cpp" />
-    <ClCompile Include="..\..\ConsoleApplication1\10870.cpp" />
-    <ClCompile Include="..\..\ConsoleApplication1\10872.cpp" />
-    <ClCompile Include="..\..\ConsoleApplication1\11653.cpp" />
-    <ClCompile Include="..\..\ConsoleApplication1\11729%28답봄%29.cpp" />
-    <ClCompile Include="..\..\ConsoleApplication1\1929.cpp" />
-    <ClCompile Include="..\..\ConsoleApplication1\2447%28답봄%29.cpp" />
-    <ClCompile Include="..\..\ConsoleApplication1\2581.cpp" />
-    <ClCompile Include="..\..\ConsoleApplication1\3053.cpp" />
-    <ClCompile Include="..\..\ConsoleApplication1\3009.cpp" />
-    <ClCompile Include="..\..\ConsoleApplication1\4153.cpp" />
-    <ClCompile Include="..\..\ConsoleApplication1\4948.cpp" />
-    <ClCompile Include="..\..\ConsoleApplication1\9020.cpp" />
     <ClCompile Include="1012.cpp" />
     <ClCompile Include="1018%28못품%29.cpp" />
     <ClCompile Include="10448.cpp" />
@@ -170,6 +156,7 @@
     <ClCompile Include="1316.cpp" />
     <ClCompile Include="1436.cpp" />
     <ClCompile Include="1449.cpp" />
+    <ClCompile Include="14888.cpp" />
     <ClCompile Include="14889%28못품%29.cpp" />
     <ClCompile Include="15596.cpp" />
     <ClCompile Include="15649(DFS).cpp" />
@@ -190,6 +177,8 @@
     <ClCompile Include="2206.cpp" />
     <ClCompile Include="2231.cpp" />
     <ClCompile Include="2292.cpp" />
+    <ClCompile Include="2580(답).cpp" />
+    <ClCompile Include="2580.cpp" />
     <ClCompile Include="2606.cpp" />
     <ClCompile Include="2667.cpp" />
     <ClCompile Include="2675.cpp" />
