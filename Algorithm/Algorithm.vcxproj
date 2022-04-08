@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1003.cpp" />
     <ClCompile Include="1012.cpp" />
     <ClCompile Include="1018%28못품%29.cpp" />
     <ClCompile Include="10448.cpp" />
@@ -148,6 +149,7 @@
     <ClCompile Include="10816.cpp" />
     <ClCompile Include="10828.cpp" />
     <ClCompile Include="10866.cpp" />
+    <ClCompile Include="1149.cpp" />
     <ClCompile Include="1152.cpp" />
     <ClCompile Include="1157.cpp" />
     <ClCompile Include="11654.cpp" />
@@ -173,8 +175,10 @@
     <ClCompile Include="1707.cpp" />
     <ClCompile Include="1712.cpp" />
     <ClCompile Include="18258.cpp" />
+    <ClCompile Include="1904.cpp" />
     <ClCompile Include="1920.cpp" />
     <ClCompile Include="1931.cpp" />
+    <ClCompile Include="1932.cpp" />
     <ClCompile Include="1935.cpp" />
     <ClCompile Include="1987.cpp" />
     <ClCompile Include="2075.cpp" />
@@ -183,6 +187,7 @@
     <ClCompile Include="2206.cpp" />
     <ClCompile Include="2231.cpp" />
     <ClCompile Include="2292.cpp" />
+    <ClCompile Include="2579.cpp" />
     <ClCompile Include="2580(답).cpp" />
     <ClCompile Include="2580.cpp" />
     <ClCompile Include="2606.cpp" />
@@ -204,6 +209,8 @@
     <ClCompile Include="7569.cpp" />
     <ClCompile Include="7576.cpp" />
     <ClCompile Include="7785.cpp" />
+    <ClCompile Include="9184.cpp" />
+    <ClCompile Include="9461.cpp" />
     <ClCompile Include="9663%28답봄%29.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
