@@ -4,38 +4,72 @@
 //
 //using namespace std;
 //
-//int arr[1001] = {};
-//vector<int> res(1001, 1);
+//vector<pair<int, int> > v;
+//vector<int>res;
+//int temp1 = 0;
+//int temp2 = 0;
+//
+//void clear()
+//{
+//	for (int i = 0; i < v.size(); i++)
+//	{
+//		v[i].second = 1;
+//		temp1 = 0;
+//		temp2 = 0;
+//	}
+//}
 //
 //int main()
 //{
-//	
-//	res[0] = 0;
-//	int n;
+//	int n;	
+//	int ans = 0;
 //	cin >> n;
+//
+//	v.push_back(make_pair(0, 0));
 //
 //	for (int i = 1; i <= n; i++)
 //	{
 //		int a;
 //		cin >> a;
-//		arr[i] = a;
+//		v.push_back(make_pair(a,1));
 //	}
-//
-//	//모든원소에 대해서 바이토닉수열의 길이를 다 구해서 구함.
-//	for (int i = 1; i <= n; i++)
+//	
+//	for (int k = 1; k <= n; k++)
 //	{
-//		for (int j = 1; j < i; j++)
+//		for (int i = 1; i < k; i++)
 //		{
-//			if(arr[j] < arr[i])
-//			res[i] = max(res[j] + 1, res[i]);
+//			if (v[i] >= v[k])
+//				continue;
+//			for (int j = 1; j < i; j++)
+//			{
+//				if (v[j].first < v[i].first)
+//				{
+//					v[i].second = max(v[i].second, v[j].second + 1);
+//				}
+//			}
+//			if (v[i].second > temp1)
+//				temp1 = v[i].second;
 //		}
-//		for (int j = i + 1; j <= n; j++)
+//		for (int i = k+1; i <=n; i++)
 //		{
-//			if (arr[j] > arr[i])
-//				res[i] = max(res[j] + 1, res[i]);
+//			if (v[i] >= v[k])
+//				continue;
+//			for (int j = k+1; j < i; j++)
+//			{
+//				if (v[j].first > v[i].first && v[j]<v[k])
+//				{
+//					v[i].second = max(v[i].second, v[j].second + 1);
+//				}
+//			}
+//			if (v[i].second > temp2)
+//				temp2 = v[i].second;
 //		}
+//		int a = temp1 + temp2 + 1;
+//		if (a > ans)
+//			ans = a;
+//		clear();
+//		
 //	}
 //
-//	sort(res.begin(), res.end());
-//	cout << res.back();
+//	cout << ans;
 //}
