@@ -168,7 +168,9 @@
     <ClCompile Include="1152.cpp" />
     <ClCompile Include="1157.cpp" />
     <ClCompile Include="11654.cpp" />
+    <ClCompile Include="11657.cpp" />
     <ClCompile Include="11659.cpp" />
+    <ClCompile Include="11660.cpp" />
     <ClCompile Include="11720.cpp" />
     <ClCompile Include="11724.cpp" />
     <ClCompile Include="1193.cpp" />
@@ -274,6 +276,9 @@
     <ClCompile Include="9375.cpp" />
     <ClCompile Include="9461.cpp" />
     <ClCompile Include="9663%28답봄%29.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="11657.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
