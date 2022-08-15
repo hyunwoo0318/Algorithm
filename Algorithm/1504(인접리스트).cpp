@@ -3,7 +3,7 @@
 //#include<algorithm>
 //#include<queue>
 //
-//#define max_int 500000000
+//#define max_int 50000000
 //
 //using namespace std;
 //
