@@ -254,6 +254,8 @@
     <ClCompile Include="2343.cpp" />
     <ClCompile Include="24444.cpp" />
     <ClCompile Include="24479.cpp" />
+    <ClCompile Include="2467(lower_bound이용).cpp" />
+    <ClCompile Include="2467.cpp" />
     <ClCompile Include="2470.cpp" />
     <ClCompile Include="2512.cpp" />
     <ClCompile Include="2559.cpp" />
@@ -267,6 +269,7 @@
     <ClCompile Include="2675.cpp" />
     <ClCompile Include="2740.cpp" />
     <ClCompile Include="2750.cpp" />
+    <ClCompile Include="2792.cpp" />
     <ClCompile Include="2798.cpp" />
     <ClCompile Include="2805.cpp" />
     <ClCompile Include="2908.cpp" />

@@ -483,6 +483,15 @@
     <ClCompile Include="17070.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2792.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2467.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2467(lower_bound이용).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="11657.h">
