@@ -142,6 +142,7 @@
   <ItemGroup>
     <ClCompile Include="10026.cpp" />
     <ClCompile Include="11403.cpp" />
+    <ClCompile Include="11725.cpp" />
     <ClCompile Include="1253.cpp" />
     <ClCompile Include="1309.cpp" />
     <ClCompile Include="1003.cpp" />
@@ -271,6 +272,7 @@
     <ClCompile Include="2579.cpp" />
     <ClCompile Include="2580(답).cpp" />
     <ClCompile Include="2580.cpp" />
+    <ClCompile Include="2583.cpp" />
     <ClCompile Include="2606.cpp" />
     <ClCompile Include="2630.cpp" />
     <ClCompile Include="2667.cpp" />

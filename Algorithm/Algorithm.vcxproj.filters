@@ -528,6 +528,12 @@
     <ClCompile Include="11403.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="11725.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2583.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="11657.h">
