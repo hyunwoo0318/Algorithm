@@ -248,6 +248,7 @@
     <ClCompile Include="1992.cpp" />
     <ClCompile Include="2004.cpp" />
     <ClCompile Include="2022.cpp" />
+    <ClCompile Include="2056.cpp" />
     <ClCompile Include="2075.cpp" />
     <ClCompile Include="2096.cpp" />
     <ClCompile Include="2110.cpp" />
@@ -257,6 +258,7 @@
     <ClCompile Include="2206.cpp" />
     <ClCompile Include="2225.cpp" />
     <ClCompile Include="2231.cpp" />
+    <ClCompile Include="2252.cpp" />
     <ClCompile Include="2292.cpp" />
     <ClCompile Include="2293.cpp" />
     <ClCompile Include="2294.cpp" />
