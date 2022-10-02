@@ -194,6 +194,7 @@
     <ClCompile Include="1300%28못품%29.cpp" />
     <ClCompile Include="1316.cpp" />
     <ClCompile Include="13549.cpp" />
+    <ClCompile Include="1389.cpp" />
     <ClCompile Include="14002.cpp" />
     <ClCompile Include="1436.cpp" />
     <ClCompile Include="14425.cpp" />
@@ -238,7 +239,10 @@
     <ClCompile Include="1874.cpp" />
     <ClCompile Include="1904.cpp" />
     <ClCompile Include="1912.cpp" />
+    <ClCompile Include="1916(pq).cpp" />
+    <ClCompile Include="1916.cpp" />
     <ClCompile Include="1920.cpp" />
+    <ClCompile Include="1922.cpp" />
     <ClCompile Include="1931.cpp" />
     <ClCompile Include="1932.cpp" />
     <ClCompile Include="1935.cpp" />
