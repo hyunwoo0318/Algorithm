@@ -194,6 +194,7 @@
     <ClCompile Include="12865.cpp" />
     <ClCompile Include="1300%28못품%29.cpp" />
     <ClCompile Include="1316.cpp" />
+    <ClCompile Include="1339.cpp" />
     <ClCompile Include="13549.cpp" />
     <ClCompile Include="1389.cpp" />
     <ClCompile Include="14002.cpp" />
@@ -231,8 +232,10 @@
     <ClCompile Include="1707.cpp" />
     <ClCompile Include="17070.cpp" />
     <ClCompile Include="1712.cpp" />
+    <ClCompile Include="1715.cpp" />
     <ClCompile Include="1717.cpp" />
     <ClCompile Include="17298.cpp" />
+    <ClCompile Include="1744.cpp" />
     <ClCompile Include="1753.cpp" />
     <ClCompile Include="1759.cpp" />
     <ClCompile Include="1764.cpp" />
