@@ -1,66 +1,51 @@
 //#include<iostream>
-//#include<vector>
 //#include<algorithm>
 //
+//#define MAX 100001
+//#define INF 987654321
 //using namespace std;
 //
-//vector<int> v;
+//long long arr[MAX];
+//int ans = INF;
 //
 //int main()
 //{
-//	ios_base::sync_with_stdio(false);
-//	cin.tie(NULL);
-//	cout.tie(NULL);
-//
-//	int n, a, x;
-//	
-//	int ans = 1000000;
-//	cin >> n >> x;
+//	int n, s;
+//	cin >> n >> s;
 //
 //	for (int i = 0; i < n; i++)
 //	{
-//		cin >> a;
-//		v.push_back(a);
-//	}	
-//		
-//	int start = 0;
-//	int end = 1;
-//	int sum = v[0];
+//		long long input; cin >> input; arr[i] = input;
+//	}
 //
+//	int l = 0;
+//	int r = 0;
+//	long long sum = arr[0];
 //
-//	while (start <= end)
-//	{
-//		//마지막에 도달한경우 작으면 끝내고 안작으면 하나씩 줄여보기
-//		if (end == n)
+//	while (l <= r)
+//	{			
+//		if (sum < s)
 //		{
-//			if (sum < x)
+//			if (r == n - 1)
 //				break;
+//			sum += arr[++r];
+//		}
+//		else if (sum >= s)
+//		{
+//			if (r == l)
+//			{
+//				ans = 1;
+//				break;
+//			}
 //			else
 //			{
-//				sum -= v[start];
-//				start++;
-//				if (ans > end - start)
-//					ans = end - start;
+//				ans = min(ans, r - l + 1);
+//				sum -= arr[l++];
 //			}
 //		}
-//		//부분합이 원하는 값보다 작음 -> end를 늘려야함
-//		else if (sum < x)
-//		{
-//			sum += v[end];
-//			end++;
-//		}
-//		//부분합이 원하는 값보다 큼 -> start를 늘려줘야함
-//		else
-//		{
-//			sum -= v[start];
-//			start++;
-//			if (ans > end - start)
-//				ans = end - start;
-//		}		
 //	}
-//	if (ans != 1000000)
-//		cout << ans + 1;
-//	else
+//	if (ans == INF)
 //		cout << 0;
-//
+//	else
+//		cout << ans;
 //}
