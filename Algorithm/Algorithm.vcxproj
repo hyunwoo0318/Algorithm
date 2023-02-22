@@ -264,6 +264,7 @@
     <ClCompile Include="1992.cpp" />
     <ClCompile Include="2004.cpp" />
     <ClCompile Include="2022.cpp" />
+    <ClCompile Include="2023kakaoIntern_1.cpp" />
     <ClCompile Include="2042.cpp" />
     <ClCompile Include="2056.cpp" />
     <ClCompile Include="2075.cpp" />
@@ -339,6 +340,8 @@
     <ClCompile Include="9461.cpp" />
     <ClCompile Include="9465.cpp" />
     <ClCompile Include="9663%28답봄%29.cpp" />
+    <ClCompile Include="kakaoblind_2.cpp" />
+    <ClCompile Include="kakaoblind_3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="11657.h" />

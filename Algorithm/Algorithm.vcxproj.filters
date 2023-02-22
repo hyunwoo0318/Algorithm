@@ -612,6 +612,15 @@
     <ClCompile Include="14003.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2023kakaoIntern_1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="kakaoblind_2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="kakaoblind_3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="11657.h">
