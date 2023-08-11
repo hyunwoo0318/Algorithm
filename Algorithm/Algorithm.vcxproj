@@ -142,6 +142,7 @@
   <ItemGroup>
     <ClCompile Include="10026.cpp" />
     <ClCompile Include="1062.cpp" />
+    <ClCompile Include="11000.cpp" />
     <ClCompile Include="1103.cpp" />
     <ClCompile Include="11403.cpp" />
     <ClCompile Include="11725.cpp" />
@@ -282,6 +283,7 @@
     <ClCompile Include="2293.cpp" />
     <ClCompile Include="2294.cpp" />
     <ClCompile Include="2343.cpp" />
+    <ClCompile Include="2437.cpp" />
     <ClCompile Include="24444.cpp" />
     <ClCompile Include="24479.cpp" />
     <ClCompile Include="2467(lower_bound이용).cpp" />
